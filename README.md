@@ -1,4 +1,4 @@
-This project is made with OpenAI and Streamlit. So We need to install them.
+This project is made with OpenAI and Streamlit. So we need to install them.
 ```bash
 pip install openai
 ```
